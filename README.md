@@ -126,6 +126,8 @@ Add screenshots of the website here:
 
 ```text
 ![Highway-Dhaba-music-player](./Screenshot.png)
+
+![Highway Dhaba](./Screenshot.png)
 ```
 
 ## 🔮 Future Improvements
