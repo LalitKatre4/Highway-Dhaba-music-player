@@ -125,7 +125,7 @@ The goal is to create the feeling of sitting at an Indian highway dhaba at night
 Add screenshots of the website here:
 
 ```text
-https://github.com/LalitKatre4/Highway-Dhaba-music-player/blob/main/Screenshot%20(395).png
+![Highway Dhaba](./screenshot.png)
 ```
 
 ## 🔮 Future Improvements
