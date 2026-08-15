@@ -78,7 +78,7 @@ The website includes a custom music player with:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/highway-dhaba.git
+https://github.com/LalitKatre4/Highway-Dhaba-music-player.git
 ```
 
 Open the project folder:
