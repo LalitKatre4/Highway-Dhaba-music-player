@@ -126,7 +126,7 @@ Add screenshots of the website here:
 
 ```text
 
-![](screenshots/Screenshot.png)
+![](screenshots/Home.png)
 ```
 
 ## 🔮 Future Improvements
