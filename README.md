@@ -126,7 +126,7 @@ Add screenshots of the website here:
 
 ```text
 
-![Highway Dhaba]https://raw.githubusercontent.com/LalitKatre4/Highway-Dhaba-music-player/refs/heads/main/Screenshot.png
+![](screenshots/Screenshot.png)
 ```
 
 ## 🔮 Future Improvements
