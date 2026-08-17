@@ -125,7 +125,7 @@ The goal is to create the feeling of sitting at an Indian highway dhaba at night
 Add screenshots of the website here:
 
 ```text
-<img src="highway%20dhaba.jpg" alt="Highway Dhaba" width="100%" />
+![](./highway-dhaba.jpg)
 ```
 
 ## 🔮 Future Improvements
