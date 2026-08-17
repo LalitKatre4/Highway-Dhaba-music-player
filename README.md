@@ -43,7 +43,7 @@ highway-dhaba/
 │
 ├── index.html
 ├── background image/
-│   └── highway dhaba.jpg
+│   └── highway-dhaba.jpg
 │
 ├── music/
 │   └── ...
